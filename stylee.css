@@ -122,77 +122,22 @@ input placeholder{
     background: #6246EA;
     border: none;
 }
-.section-paragraph{
-    background-color: #EFF0F3;
-    padding-top: 353px;
-}
-
-section div {
+.size{
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
-.green{
-    display: flex;
-    padding-top: 50px;
-    width: 220px;
-    height: 280px;
-    border-radius: 8px;
-    background: #FFFFFE;
-}
-.j{
-    display: flex;
-    padding-top: 50px;
-    width: 220px;
-    height: 280px;
-    border-radius: 8px;
-    background: #FFFFFE;
-}
-.T{
-    width: 220px;
-    height: 280px;
-    border-radius: 8px;
-    background: #FFFFFE;
-}
-.V{
-    width: 220px;
-    height: 280px;
-    border-radius: 8px;
-    background: #FFFFFE;
-}
-.R{
-    width: 220px;
-    height: 280px;
-    border-radius: 8px;
-    background: #FFFFFE;
-}
-.paragraph{
-    display: flex;
-    /*align-items: center;*/
-    /*gap: 30px;*/
-}
-div .green svg{
-    margin:77px 144px 166px 43px;
-    width: 33px;
-    height: 37px;
-    flex-shrink: 0;
-}
-div .green p{
-    /*margin-top: 30px;*/
+section{
+    margin-top:351px;
+    background-color:#9A9494;;
 
 }
-div .java svg{
-
-    width: 60px;
-    height: 60px;
+section div a{
+    font-size:20px;
 
 }
-div.T{
-    background-color: #6246EA;
-}
-div .T img{
-
-    border: ;
+section div svg{
+    margin-left: 12px;
 }
 
 
