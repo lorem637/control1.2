@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.w-1440{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+/*--------------------------header-------------------------*/
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top:22px;
+    font-family: "Plus Jakarta Sans", serif;
+}
+header nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Plus Jakarta Sans", serif;
+}
+header nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    font-family: "Plus Jakarta Sans", serif;
+}
+header nav a{
+    color:black;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: "Plus Jakarta Sans", serif;
+}
+.dasteen{
+    color: #001858;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: "Plus Jakarta Sans", serif;
+}
+header span{
+    color: #6246EA;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Plus Jakarta Sans", serif;
+}
+.coffee{
+    color: #FFFFFE;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    display: flex;
+    padding: 10px 17px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    background: #6246EA;
+    border: none;
+    font-family: "Plus Jakarta Sans", serif;
+}
+/*----------------section--------*/
+
+.registration{
+    background-color: #EFF0F3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top:164px;
+    font-family: "Plus Jakarta Sans", serif;
+}
+main div h1{
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    width: 617px;
+    font-family: "Plus Jakarta Sans", serif;
+ }
+main div p{
+    width: 652px;
+    color:#9A9494;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Plus Jakarta Sans", serif;
+}
+main img{
+    padding-right: 110px;
+}
+.header___active-link{
+    border-bottom-left-radius: 3px;
+
+}
+input{
+    border-radius: 8px;
+    background: #FFFFFE;
+    display: flex;
+    padding: 21px 200px 21px 25px;
+    align-items: center;
+    gap: 10px;
+    border: none;
+}
+input placeholder{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.button-subscribe{
+    display: flex;
+    height: 67px;
+    padding: 20px 23px 19px 23px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #6246EA;
+    border: none;
+}
+.section-paragraph{
+    background-color: #EFF0F3;
+    padding-top: 353px;
+}
+
+section div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.green{
+    display: flex;
+    padding-top: 50px;
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background: #FFFFFE;
+}
+.j{
+    display: flex;
+    padding-top: 50px;
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background: #FFFFFE;
+}
+.T{
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background: #FFFFFE;
+}
+.V{
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background: #FFFFFE;
+}
+.R{
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background: #FFFFFE;
+}
+.paragraph{
+    display: flex;
+    /*align-items: center;*/
+    /*gap: 30px;*/
+}
+div .green svg{
+    margin:77px 144px 166px 43px;
+    width: 33px;
+    height: 37px;
+    flex-shrink: 0;
+}
+div .green p{
+    /*margin-top: 30px;*/
+
+}
+div .java svg{
+
+    width: 60px;
+    height: 60px;
+
+}
+div.T{
+    background-color: #6246EA;
+}
+div .T img{
+
+    border: ;
+}
+
+
+
+
