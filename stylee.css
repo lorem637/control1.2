@@ -5,6 +5,7 @@
     text-decoration: none;
     list-style-type: none;
 }
+
 .w-1440{
     width: 1440px;
     margin: 0 auto;
@@ -90,12 +91,12 @@ main div p{
     font-weight: 400;
     font-family: "Plus Jakarta Sans", serif;
 }
+.header___active-link{
+    color: #2B2C34;
+    border-left:5px solid ;
+}
 main img{
     padding-right: 110px;
-}
-.header___active-link{
-    border-bottom-left-radius: 3px;
-
 }
 input{
     border-radius: 8px;
@@ -122,14 +123,21 @@ input placeholder{
     background: #6246EA;
     border: none;
 }
+.button-size{
+    width: 609px;
+}
 .size{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 1440px;
+    height: 35px;;
+
+
 }
 section{
-    margin-top:351px;
-    background-color:#9A9494;;
+   height:351px;
+    background-color:#EFF0F3;
 
 }
 section div a{
@@ -139,6 +147,41 @@ section div a{
 section div svg{
     margin-left: 12px;
 }
+browse{
+    color: #2B2C34;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+
+    text-transform: capitalize;
+}
+.see{
+    color: #2B2C34);
+    text-align: right;
+    font-family: "Plus Jakarta Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.css{
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background:  #FFFFFE;
+    /*padding-top:50px ;*/
+
+}
+div .css svg{
+    margin: 77px 144px 166px 43px;
+}
+
+.name{
+    margin: 77px 144px 166px 43px;
+
+}
+
 
 
 
