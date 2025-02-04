@@ -77,6 +77,13 @@ header span{
     padding-top:164px;
     font-family: "Plus Jakarta Sans", serif;
 }
+.gaap{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+}
+
 main div h1{
     font-size: 64px;
     font-style: normal;
@@ -97,6 +104,7 @@ main div p{
 }
 main img{
     padding-right: 110px;
+    padding-bottom: 30px;
 }
 input{
     border-radius: 8px;
@@ -136,7 +144,8 @@ input placeholder{
 
 }
 section{
-   height:351px;
+    padding-top: 351px;
+   height:100vh;
     background-color:#EFF0F3;
 
 }
@@ -170,8 +179,7 @@ browse{
     height: 280px;
     border-radius: 8px;
     background:  #FFFFFE;
-    /*padding-top:50px ;*/
-
+    margin-top: 50px;
 }
 div .css svg{
     margin: 77px 144px 166px 43px;
@@ -181,6 +189,21 @@ div .css svg{
     margin: 77px 144px 166px 43px;
 
 }
+.name_css{
+    padding-bottom:200px;
+}
+.group{
+    display: flex;
+    margin: 0 10px;
+}
+.js{
+    width: 220px;
+    height: 280px;
+    border-radius: 8px;
+    background:  #FFFFFE;
+    margin-top: 50px;
+}
+
 
 
 
